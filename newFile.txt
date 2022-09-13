@@ -1,7 +1,8 @@
-This is a new file and I want to save it so that if lights go out I shouldn't be affected.
+ This is a new file and I want to save it so that if lights go out I shouldn't be affected.
 
 Thank you for the updates.
 
 This file has been updated 
 
 I want to check for how the git commit cammand functions
+My name is Derickoh, Derickoh one more ehhh
